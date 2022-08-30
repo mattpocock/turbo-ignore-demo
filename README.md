@@ -2,7 +2,7 @@
 
 This is an official starter turborepo.
 
-## What's inside?
+## What's in here?
 
 This turborepo uses [pnpm](https://pnpm.io) as a packages manager. It includes the following packages/apps:
 
