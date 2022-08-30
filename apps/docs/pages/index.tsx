@@ -3,7 +3,7 @@ import { Button } from "ui";
 export default function Docs() {
   return (
     <div>
-      <h1>My Beautiful Docs</h1>
+      <h1>My Awesome Docs</h1>
       <Button />
     </div>
   );
