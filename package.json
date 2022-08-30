@@ -7,7 +7,8 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "turbo run build",
+    "build:docs": "turbo run build --filter=\"docs...\"",
+    "build:web": "turbo run build --filter=\"web...\"",
     "dev": "turbo run dev --parallel",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
